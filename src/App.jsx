@@ -16,6 +16,8 @@ function App() {
   }
   const readTimeHandle = (blog) => {
     setReadTime(readTime + blog.reading_time)
+    const remainingBlogs = bookmarks.filter(bookmark => bookmark.id !== blog.id)
+    setBookmarks(remainingBlogs)
     
     
   }
