@@ -1,5 +1,7 @@
-# ThoughtBin
-- live link: obsequious-look.surge.sh
+# ThoughtBin 
+[Deployed Website](obsequious-look.surge.sh)
+
+
 ThoughtBin is a modern frontend website designed for reading and managing blogs. Users can explore blogs, save their favorite ones to bookmarks, and mark blogs as read. This project leverages a custom API for blog content, TailwindCSS for styling, and React for building an interactive user experience.
 
 ### Features
